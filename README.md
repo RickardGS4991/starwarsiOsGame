@@ -52,5 +52,5 @@ https://youtu.be/WQE7ejyZdhk?si=WbQn_-bsOOtDk0P3
 
 ## 🥇Team
 
-1.- Rodrigo Oliveros Vazquez
+1.- Rodrigo Emmanuel Oliveros Vazquez
 2.- Ricardo Garcia Sedano
