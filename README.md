@@ -27,7 +27,7 @@ Final project for Semana i in Tecnológico de Monterrey Campus Puebla. This proj
 
 ---
 
-4.- The game has other three function that manages the start, ending and the explosion for the enemy. In the startGame() function, we run the functions AddTie(), addShip() and AddR2. Then we wait some seconds (It depends on every function). Finally, they runs again repeatly after seconds. Besides, labels are managed here. It shows the TIE destroyed and the shield. The endGame() runs when the shield is equal to zero. Finally, the explosion() added a sprite to simulate tthe explosion between the player and the enemy.
+4.- The game has other three function that manages the start, ending and the explosion for the enemy. In the startGame() function, we run the functions AddTie(), addShip() and AddR2. Then we wait some seconds (It depends on every function). Finally, they runs again repeatly after seconds. Besides, labels are managed here. It shows the TIE destroyed and the shield. The endGame() runs when the shield is equal to zero. Finally, the explosion() added a sprite to simulate the explosion between the player and the enemy.
 
 ---
 
